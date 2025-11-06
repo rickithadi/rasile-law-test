@@ -1,0 +1,9 @@
+{
+  "session_id": "dc07ae95-60e5-4809-80ff-622e8e22df3b",
+  "prompts": [
+    "integrated images from public folder and generate seo tags from CRAWL_DATA.md",
+    "Also add various routes for the routes available on the website. Use Crawl for AI to crawl this website to check the routes. The messaging should be a one-to-one copy. https://rasilelaw.com/about-me.html , https://rasilelaw.com/chapter-7.html etc",
+    "use crwl and http://rasilelaw.com",
+    "use site_data.md for copy for the various routes"
+  ]
+}

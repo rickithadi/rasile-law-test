@@ -16,7 +16,7 @@ const Hero: React.FC<HeroProps> = ({
   fullText,
 }) => {
   return (
-    <div className="relative bg-gradient-to-br from-brand-1 to-blue-900 min-h-screen flex items-center">
+    <div className="relative bg-gradient-to-br from-brand-1 to-blue-900 min-h-screen flex items-center pt-16">
       <div className="absolute inset-0 bg-black bg-opacity-40"></div>
       <div className="relative z-10 max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-32">
         <div className="text-center text-white">
