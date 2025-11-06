@@ -8,9 +8,12 @@ export default {
   theme: {
     extend: {
       colors: {
-      "primary": "#3b82f6",
-      "secondary": "#64748b",
-      "accent": "#f59e0b"
+        "brand-1": "#1e3a8a", // Professional navy blue
+        "brand-2": "#fbbf24", // Gold accent
+        "brand-3": "#94a3b8", // Light gray for text
+        "primary": "#1e3a8a",
+        "secondary": "#374151",
+        "accent": "#fbbf24"
 },
       spacing: {
       "spacing-1": "4px",
@@ -41,17 +44,17 @@ export default {
 ],
       {
         "custom": {
-        "primary": "#3b82f6",
-        "secondary": "#64748b",
-        "accent": "#f59e0b",
+        "primary": "#1e3a8a",
+        "secondary": "#374151", 
+        "accent": "#fbbf24",
         "neutral": "#1f2937",
         "base-100": "#ffffff",
-        "base-200": "#f3f4f6",
-        "base-300": "#e5e7eb",
-        "info": "#06b6d4",
-        "success": "#10b981",
-        "warning": "#f59e0b",
-        "error": "#ef4444"
+        "base-200": "#f8fafc",
+        "base-300": "#e2e8f0",
+        "info": "#0ea5e9",
+        "success": "#059669",
+        "warning": "#d97706",
+        "error": "#dc2626"
 }
       }
     ],

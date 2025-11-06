@@ -1,0 +1,7 @@
+{
+  "session_id": "dd005079-40a4-43de-bd20-f84b3dedfefc",
+  "prompts": [
+    "Debug this codebase. It's missing copy. All the components are missing props that should be copy. Generate this copy from crawldata.md. ",
+    "Also ensure that Design QA is conducted and use Daisy UI Blueprint MCP server to build a professional law firm UI. "
+  ]
+}
